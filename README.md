@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Zalak Parmar 👋 - Zallkkkpr
 
-<!--
-**Zallkkkpr/Zallkkkpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> BCA 2nd Year Student | Aspiring Developer | Palanpur, Gujarat
 
-Here are some ideas to get you started:
+I love turning ideas into code! Currently learning and building projects in C & Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 My Projects (Live)
+- 📚 **Student Marks Calculator** - in C
+- 🧮 **C-Calculator** - Simple & Fast
+- 🔐 **Python Password Generator** - Secure Passwords
+- 🌐 **My Portfolio** - [Visit Here](https://zallkkkpr.github.io/my-portfolio/)
+
+#### 💻 Tech Stack
+`C` `Python` `HTML` `CSS` `Git` `GitHub`
+
+#### 📫 Connect With Me
+- GitHub: @Zallkkkpr
+- Portfolio: zallkkkpr.github.io/my-portfolio
+
+---
+⭐ *Extraordinary - Learning everyday, building everyday!*
