@@ -6,8 +6,9 @@ I love turning ideas into code! Currently learning and building projects in C & 
 ### 🚀 My Coding Journey - 2026
 
 > I don't just code, I manage my projects like a pro!
-### 📋 My Project Board
+> ### 📋 My Project Board
 [My Coding Journey - 2026](https://github.com/users/Zallkkkpr/projects/2)
+> Note: GitHub requires sign-in to view Project Boards (even if public)
 
 #### ✅ Completed (2/12)
 - ❤️ [mom's-cafe-website](https://github.com/Zallkkkpr/moms-cafe-website) - Made with love
